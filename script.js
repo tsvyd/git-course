@@ -1,0 +1,1 @@
+ducument.body.innerHTML = "<h1>hi! man!</h1>"
